@@ -1,2 +1,2 @@
 # huvab
-Huvab Admin template
+Huvab Bootstrap Admin Template
