@@ -1,2 +1,2 @@
 # huvab
-Huvab Angular Admin template
+Huvab Admin template
